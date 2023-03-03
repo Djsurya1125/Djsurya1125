@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djsurya1125" alt="djsurya1125" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/djsurya__" target="blank"><img src="https://img.shields.io/twitter/follow/djsurya__?logo=twitter&style=for-the-badge" alt="djsurya__" /></a> </p>
 
 - 👨🏻‍💻 I’m currently learning **Javascript and Java.Laterly Having Thoughts 🤔 to learn Python**
 
 - 🤝 I’m looking for help with **Learning New Skills and Ideas to become a Good Developer**
 
-- 💬 Ask me about **Android Operating system and Other System Tech Ideas**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-5BiTL25zRTQsBlmMAQe6rqUGK0Mlmgn/view?usp=drivesdk](https://drive.google.com/file/d/1-5BiTL25zRTQsBlmMAQe6rqUGK0Mlmgn/view?usp=drivesdk)
+- 💬 Ask me about **Android Operating system**
 
 - ⚡ Best about Me **I am Basically A Hard Working Guy 😉**
 
@@ -40,7 +36,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/djsurya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="djsurya__" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/jayasurya-d-485994237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayasurya-d-485994237" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayasurya-d-485994237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/djsurya1125" height="30" width="40" /></a>
 
 <a href="https://www.facebook.com/profile.php?id=100082569398089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="d jsurya" height="30" width="40" /></a>
 
